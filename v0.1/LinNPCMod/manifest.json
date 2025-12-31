@@ -1,0 +1,13 @@
+{
+  "Name": "Lin's NPC Mod",
+  "Author": "lin0lion",
+  "Version": "1.6.15",
+  "Description": "Adds a new NPC named Lin to the game.",
+  "UniqueID": "lin0lion.LinNPCMod",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+    "Dependencies": [
+    { "UniqueID": "Pathoschild.ContentPatcher", "MinimumVersion": "2.8.0" }
+  ]
+}

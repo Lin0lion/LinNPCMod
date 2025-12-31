@@ -1,0 +1,28 @@
+{
+    "Format": "2.8.0",
+    "Changes":
+	  [
+        {
+   		 "LogName": "Blank JSON load", 
+        	"Action": "Load",
+        	"Target": "Characters/Dialogue/lin0lion.LinNPCMod_Lin, Characters/schedules/lin0lion.LinNPCMod_Lin, Strings/schedules/lin0lion.lin0lion.LinNPCMod_Lin",
+        	"FromFile": "assets/blank.json"
+    	},
+		{
+			"LogName": "LinNPCMod appears to be working, thank you for playing/testing!",
+		 "Action": "Include",
+		 "FromFile": "assets/data/dispos.json"
+		},
+        {
+        	"LogName": "Lin_Dialogue",
+   		 "Action": "Include",
+   		 "FromFile": "assets/data/dialogue.json"
+    	},
+        {
+        	"LogName": "Base Portraits",
+        	"Action": "Load",
+        	"Target": "Portraits/lin0lion.LinNPCMod_Lin",
+        	"FromFile": "assets/images/portraits/Lin_3.png"
+   	    }
+	  ]
+}

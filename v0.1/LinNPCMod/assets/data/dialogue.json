@@ -1,0 +1,85 @@
+ {
+"Changes": 
+    [
+ 
+		{
+            "LogName": "LinNPCMod",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Lin",
+			"Entries": {
+
+    // Topics
+        "Introduction": "You must be @. #$b# I'm Lin. #$b# Nice to meet you.",
+        "GreenRain": "Am I the only one panicking?! #$e# How are you still calm in THIS weather?!",
+        "GreenRain_2": "At least we know it's safe... #$e# Last time this happened, I was thinking it was acid rain.",
+        "GreenRainFinished": "Turns out it doesn't do much harm. #$b# That's a relief.",
+
+    // Weekly
+        "Mon": "W Lin 11111", 
+        "Tue": "W Lin 22222",
+        "Wed": "",
+        "Thu": "",
+        "Fri": "",
+        "Sat": "",
+        "Sun": "",
+
+    // Specific days
+        "Mon2": "", 
+        "Tue2": "",
+        "Wed2": "",
+        "Thu2": "",
+        "Fri2": "",
+        "Sat2": "",
+        "Sun2": "",
+
+        "Mon4": "", 
+        "Tue4": "",
+        "Wed4": "",
+        "Thu4": "",
+        "Fri4": "",
+        "Sat4": "",
+        "Sun4": "",
+
+        "Mon6": "",
+        "Tue6": "",
+        "Wed6": "",
+        "Thu6": "",
+        "Fri6": "",
+        "Sat6": "",
+        "Sun6": "",
+
+        "Mon8": "",
+        "Tue8": "",
+        "Wed8": "",
+        "Thu8": "",
+        "Fri8": "",
+        "Sat8": "",
+        "Sun8": "",
+
+        "Mon10": "",
+        "Tue10": "",
+        "Wed10": "",
+        "Thu10": "",
+        "Fri10": "",
+        "Sat10": "",
+        "Sun10": "",   
+
+    // Days before events
+	    "spring_1": "My great-grandfather always said that the first day of the year is the greatest day of the year. #$b# I feel lucky I met him before he passed away.",
+	    "summer_1": "Everybody here seems to love hot peppers. #$e# Plant 'em before it's too late. #$b# You won't regret it, trust me.",
+	    "fall_1": "I heard pumpkins can make quite a bit of money. #$b# Although, they do take a while to grow...",
+        "fall_13": "Is my birthday today, or tommorow, @? #$b# I always get confused with all these festivals.",
+	    "winter_1": "The only thing you can grow in Winter is a Powdermelon. #$b# But the seeds can't be bought, only found.",
+        "spring_12": "$q Q1_response_ID1/Q1_response_ID2 Q1_fallback#Ready for the Egg Festival?#$r Q1_response_ID1 0 Q1_reaction1#Not yet.#$r Q1_response_ID2 0 Q1_reaction2#Yup!",
+            "Q1_reaction1": "Don't worry, you still have some time to prepare.",
+            "Q1_reaction2": "$q Q2_response_ID1/Q2_response_ID2 Q2_fallback#Great! I'll see you there.",
+        "spring_23": "I don't think I'll be dancing at the Flower Dance. #$b# I don't have a partner.",
+	    "summer_10": "I heard the Governor will test the soup tommorow at the Luau. #$b# I'll probably put in some of my gold-quality hot peppers.",
+	    "summer_27": "I hope the Midnight Jellies do come tommorow night.",
+	    "fall_15": "I wonder who will have a booth tommorow...",
+	    "fall_26": "I wonder why they call it the Spirit's Eve. #$b# I guess I'll find out tommorow.",
+	    "winter_7": "I betcha Willy will win tommmorow at the Ice Festival."
+        }
+            }
+        ]
+    }

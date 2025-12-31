@@ -1,0 +1,40 @@
+{
+	"Changes": [
+	 
+	 {
+		 "Action": "EditData",
+		 "Target": "Data/Characters",
+		 "Entries": {
+			 "{{ModId}}_LinNPCMod": {
+				 "DisplayName": "Lin",
+				 "Gender": "Male",
+				 "Age": "Adult",
+				 "Manner": "Polite",
+				 "SocialAnxiety": "Neutral",
+				 "Optimism": "Positive",
+				 "BirthSeason": "fall",
+				 "BirthDay": "14",
+				 "HomeRegion": "Town",
+				 "CanBeRomanced": false,
+					"CanVisitIsland": false,
+				 "SpouseAdopts": false,
+				 "IntroductionsQuest": true,
+   				 "ItemDeliveryQuests": false, 
+   				 "WinterStarParticipant": false, 
+   				 
+   				 "Home": [ 
+   					 {
+   						 "Id": "Default",
+   						 "Location": "Lin_House",
+   						 "Tile": {
+   							 "X": 5,
+   							 "Y": 11
+   						 },
+   						 "Direction": "right"
+   					 }
+   				 ]
+   			 }
+   		 }
+   	 }
+    ]
+}
