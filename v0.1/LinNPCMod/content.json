@@ -23,6 +23,12 @@
         	"Action": "Load",
         	"Target": "Portraits/lin0lion.LinNPCMod_Lin",
         	"FromFile": "assets/images/portraits/Lin_3.png"
-   	    }
+   	    },
+		{
+        	"LogName": "Base Portraits",
+        	"Action": "Load",
+        	"Target": "Characters/{{ModId}}_NPCName",
+        	"FromFile": "assets/images/characters/Lin_1.png"
+   	 	}
 	  ]
 }
